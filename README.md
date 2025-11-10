@@ -38,12 +38,12 @@ Each color represents a different simulated scenario.
 2. Upload the `.ipynb` file  
 3. Click **Run all** to see the graphs and animation  
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<stayploy>/gbm-stock-simulation/blob/main/gbm_simulation.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<stayploy>/gbm.simulation.for.stock/blob/main/gbm_simulation.ipynb)
 
 
 ### Option 2 — Run on Your Computer
-git clone https://github.com/<your-username>/<your-repo-name>.git
-cd <your-repo-name>
+git clone https://github.com/<stayploy>/<gbm.simulation.for.stock>.git
+cd <stayploy>
 pip install numpy matplotlib
 python gbm_simulation.py
 
